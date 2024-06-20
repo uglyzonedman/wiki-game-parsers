@@ -1,0 +1,177 @@
+[
+    {
+        "position": "1",
+        "rating": "1254",
+        "org_name": "Gaimin Gladiators",
+        "image_path": "5764.webp",
+        "region_name": "Европа"
+    },
+    {
+        "position": "2",
+        "rating": "1233",
+        "org_name": "Team Spirit",
+        "image_path": "67.webp",
+        "region_name": "Россия"
+    },
+    {
+        "position": "3",
+        "rating": "1228",
+        "org_name": "Team Liquid",
+        "image_path": "45.webp",
+        "region_name": "Швеция"
+    },
+    {
+        "position": "4",
+        "rating": "1223",
+        "org_name": "Tundra Esports",
+        "image_path": "5536.webp",
+        "region_name": "Европа"
+    },
+    {
+        "position": "5",
+        "rating": "1214",
+        "org_name": "Team Falcons",
+        "image_path": "6277.webp",
+        "region_name": "MENA"
+    },
+    {
+        "position": "6",
+        "rating": "1196",
+        "org_name": "Xtreme Gaming",
+        "image_path": "5490.webp",
+        "region_name": "Китай"
+    },
+    {
+        "position": "7",
+        "rating": "1194",
+        "org_name": "LGD Gaming",
+        "image_path": "48.webp",
+        "region_name": "Китай"
+    },
+    {
+        "position": "8",
+        "rating": "1186",
+        "org_name": "BetBoom Team",
+        "image_path": "5801.webp",
+        "region_name": "Россия"
+    },
+    {
+        "position": "9",
+        "rating": "1173",
+        "org_name": "OG",
+        "image_path": "44.webp",
+        "region_name": "Европа"
+    },
+    {
+        "position": "10",
+        "rating": "1168",
+        "org_name": "Entity",
+        "image_path": "530.webp",
+        "region_name": "Европа"
+    },
+    {
+        "position": "11",
+        "rating": "1158",
+        "org_name": "G2.iG",
+        "image_path": "70.webp",
+        "region_name": "Китай"
+    },
+    {
+        "position": "12",
+        "rating": "1155",
+        "org_name": "Azure Ray",
+        "image_path": "5752.webp",
+        "region_name": "Китай"
+    },
+    {
+        "position": "13",
+        "rating": "1149",
+        "org_name": "Team Aster",
+        "image_path": "2074.webp",
+        "region_name": "Китай"
+    },
+    {
+        "position": "14",
+        "rating": "1137",
+        "org_name": "Virtus.pro",
+        "image_path": "72.webp",
+        "region_name": "Россия"
+    },
+    {
+        "position": "15",
+        "rating": "1136",
+        "org_name": "PSG Quest",
+        "image_path": "5804.webp",
+        "region_name": "MENA"
+    },
+    {
+        "position": "16",
+        "rating": "1129",
+        "org_name": "Team Secret",
+        "image_path": "50.webp",
+        "region_name": "Европа"
+    },
+    {
+        "position": "17",
+        "rating": "1127",
+        "org_name": "9Pandas",
+        "image_path": "6134.webp",
+        "region_name": "Россия"
+    },
+    {
+        "position": "18",
+        "rating": "1123",
+        "org_name": "Talon Esports",
+        "image_path": "5726.webp",
+        "region_name": "Малайзия"
+    },
+    {
+        "position": "19",
+        "rating": "1120",
+        "org_name": "BOOM Esports",
+        "image_path": "931.webp",
+        "region_name": "Перу"
+    },
+    {
+        "position": "20",
+        "rating": "1101",
+        "org_name": "beastcoast",
+        "image_path": "3541.webp",
+        "region_name": "Перу"
+    },
+    {
+        "position": "21",
+        "rating": "1086",
+        "org_name": "Shopify Rebellion",
+        "image_path": "5966.webp",
+        "region_name": "Северная Америка"
+    },
+    {
+        "position": "22",
+        "rating": "1084",
+        "org_name": "Thunder Awaken",
+        "image_path": "1266.webp",
+        "region_name": "Перу"
+    },
+    {
+        "position": "23",
+        "rating": "1078",
+        "org_name": "Geek Fam",
+        "image_path": "560.webp",
+        "region_name": "Филиппины"
+    },
+    {
+        "position": "24",
+        "rating": "1077",
+        "org_name": "Team Zero",
+        "image_path": "6141.webp",
+        "region_name": "Китай"
+    },
+    {
+        "position": "25",
+        "rating": "1070",
+        "org_name": "nouns",
+        "image_path": "5811.webp",
+        "region_name": "Северная Америка"
+    }
+]
